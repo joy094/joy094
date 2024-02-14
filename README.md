@@ -10,7 +10,7 @@ Skills:  / REACT / JS / HTML / CSS/PHP
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Devlopment 
-- 📫 How to reach me: zh94429@yahoo.com 
+- 📫 How to reach me: <h1>fa fa-envelope</h1> zh94429@yahoo.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joy209422600)  
