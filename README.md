@@ -4,13 +4,13 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files tI'm web developer with 3+ years of experience specializing in front-end development.Working with HTML, CSS, JavaScript, React and responsive design frameworks, also working with Wordpress . strong record of collaborating with functional teams to achieve project goals.
 
-Skills:  / REACT / JS / HTML / CSS/PHP
+👨‍💻Skills:   ✅REACT ☑✅JS  ✅HTML ✅CSS ✅PHP
 
 - 🔭 I’m currently working on Upwork 
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Devlopment 
-- 📫 How to reach me:  zh94429@yahoo.com 
+- 📫 How to reach me: 📧 zh94429@yahoo.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joy209422600)  
