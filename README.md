@@ -22,7 +22,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Joy209422600/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/Joy209422600)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Joy209422600)  
 
