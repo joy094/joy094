@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md Jakaria
 #### Web Developer
-![Web Developer](https://)
+![Web Developer image](/myPhoto.jpg)
 
 I'm web developer with 3+ years of experience specializing in front-end development.Working with HTML, CSS, JavaScript, React and responsive design frameworks, also working with Wordpress . strong record of collaborating with functional teams to achieve project goals.
 
