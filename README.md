@@ -4,10 +4,10 @@
 
 I'm web developer with 3+ years of experience specializing in front-end development.Working with HTML, CSS, JavaScript, React and responsive design frameworks, also working with Wordpress . strong record of collaborating with functional teams to achieve project goals.
 
-👨‍💻Skills:   ✅REACT ✅JS  ✅HTML ✅CSS ✅PHP
+👨‍💻Skills:   ✅REACT JS ✅JS  ✅HTML ✅CSS ✅NODE JS
 
 - 🔭 I’m currently working on Upwork 
-- 🌱 I’m currently learning Node.js 
+- 🌱 currently I am working eCommerce website project 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Devlopment 
 - 📫 How to reach me: 📧 zh94429@yahoo.com 
