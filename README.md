@@ -1,16 +1,46 @@
 ### Hi there 👋, I'm Md Jakaria
-#### Web Developer
+### A passionate MERN Stack Developer with over 5 years of professional experience.
 ![Web Developer image](img/banner1.png)
 
-I'm web developer with 3+ years of experience specializing in front-end development.Working with HTML, CSS, JavaScript, React and responsive design frameworks, also working with Wordpress . strong record of collaborating with functional teams to achieve project goals.
 
-👨‍💻Skills:   ✅REACT JS ✅JS  ✅HTML ✅CSS ✅NODE JS
+---
 
-- 🔭 I’m currently working on Upwork 
-- 🌱 currently I am working eCommerce website project 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Devlopment 
-- 📫 How to reach me: 📧 zh94429@yahoo.com 
+## 🚀 About Me
+
+I am a dedicated **Full Stack Developer** specializing in the **MERN (MongoDB, Express.js, React, Node.js)** stack. With **5+ years** of hands-on experience, I have a strong foundation in building scalable, high-performance, and user-friendly web applications from conception to deployment.
+
+* **Expertise:** Full-Stack Web Development, API Design, Database Management, and delivering seamless user experiences.
+* **Focus:** Writing clean, maintainable code and solving complex technical challenges.
+
+---
+
+## 🧠 Skills and ⚙️ Toolkit
+
+| Category | Skills / Technologies |
+| :--- | :--- |
+| **⚛️ Frontend** | React.js, Redux, Context API, Hooks, HTML5, CSS3, JavaScript (ES6+), Babel, Webpack |
+| **🎨 Styling** | Tailwind CSS, Bootstrap, Material-UI, Styled Components, Responsive Design |
+| **🌐 Backend** | Node.js, Express.js, RESTful API Development, Passport.js/JWT Authentication, Serverless Functions |
+| **💾 Database** | MongoDB, Mongoose, PostgreSQL, MySQL, Data Modeling |
+| **🔧 DevOps & Tools** | Git, GitHub, GitLab, Docker, CI/CD, Postman, VS Code |
+| **☁️ Cloud & Deployment** | AWS (EC2, S3), Heroku, Vercel, Netlify, Firebase |
+
+---
+
+## 💼 Experience
+
+| Technology | Professional Experience |
+| :--- | :--- |
+| **MERN Stack** | **5+ Years** |
+
+---
+
+## 📞 Get In Touch
+
+| Contact Type | Details |
+| :--- | :--- |
+| **📧 Email** | zh94429@yahoo.com |
+| **📱 Phone** | +8801632412891 |
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joy209422600)  
