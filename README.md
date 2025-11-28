@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md Jakaria
 ### A passionate MERN Stack Developer with over 5 years of professional experience.
-![Web Developer image](img/banner1.png)
+![Web Developer image](img/MERN_baner.jpg)
 
 
 ---
